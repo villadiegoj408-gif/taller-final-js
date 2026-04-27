@@ -21,3 +21,4 @@ Este proyecto es un taller práctico donde se aplica HTML, CSS y JavaScript para
 1. Clona el repositorio:
 ```bash
 git clone https://github.com/tu-usuario/taller-final-js.git
+
